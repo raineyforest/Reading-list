@@ -1,6 +1,8 @@
 1. KASLR is Dead: Long Live KASLR
 Abstract: This paper presents KAISER, a system that overcomes limiations of x86 platform and provides practical kernel address isolation.
 paper link: https://gruss.cc/files/kaiser.pdf
-Graz University of Technology, Austria
+Organization: Graz University of Technology, Austria
 
-
+2. alts-whitepaper (not academic paper)
+abstract: the whitepaper of Google Cloud's Application Layer Transport Security
+link: https://cloud.google.com/security/encryption-in-transit/application-layer-transport-security/resources/alts-whitepaper.pdf
