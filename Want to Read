@@ -1,0 +1,6 @@
+1. KASLR is Dead: Long Live KASLR
+Abstract: This paper presents KAISER, a system that overcomes limiations of x86 platform and provides practical kernel address isolation.
+paper link: https://gruss.cc/files/kaiser.pdf
+Graz University of Technology, Austria
+
+
